@@ -8,7 +8,7 @@ body {
 }
 
 #Hero {
-	background-image: url('../Images/skydiving photo.png');
+	background-image: url('../images/skydiving-photo.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top;
